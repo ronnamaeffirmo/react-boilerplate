@@ -5,13 +5,13 @@ import thunkMiddleware from 'redux-thunk'
 import rootReducer from './reducers'
 
 export default function configureStore(preloadedState) {
-    const middlewares = [thunkMiddleware]
-    const middlewareEnhancer = applyMiddleware(...middlewares)
+  const middlewares = [thunkMiddleware]
+  const middlewareEnhancer = applyMiddleware(...middlewares)
 
-    const enhancers = [middlewareEnhancer]
-    const componsedEnhancers = composeWithDevTools(...enhancers)
+  const enhancers = [middlewareEnhancer]
+  const componsedEnhancers = composeWithDevTools(...enhancers)
 
-    const store = createStore(rootReducer, preloadedState, componsedEnhancers)
+  const store = createStore(rootReducer, preloadedState, componsedEnhancers)
 
-    return store
+  return store
 }
