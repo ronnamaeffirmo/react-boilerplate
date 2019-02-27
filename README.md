@@ -2,12 +2,13 @@
 
 The following guides were followed in setting up this project:
 
--   https://ant.design/docs/react/use-with-create-react-app
--   https://redux.js.org/introduction/installation
--   https://redux.js.org/recipes/configuring-your-store
--   https://reacttraining.com/react-router/web/guides/quick-start
--   https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly
--   https://prettier.io/docs/en/install.html
+- https://ant.design/docs/react/use-with-create-react-app
+- https://redux.js.org/introduction/installation
+- https://redux.js.org/recipes/configuring-your-store
+- https://reacttraining.com/react-router/web/guides/quick-start
+- https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly
+- https://prettier.io/docs/en/install.html
+- https://eslint.org/docs/user-guide/getting-started
 
 # create-react-app notes
 
