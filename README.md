@@ -1,3 +1,16 @@
+# notes from the developer
+
+The following guides were followed in setting up this project:
+
+-   https://ant.design/docs/react/use-with-create-react-app
+-   https://redux.js.org/introduction/installation
+-   https://redux.js.org/recipes/configuring-your-store
+-   https://reacttraining.com/react-router/web/guides/quick-start
+-   https://github.com/commitizen/cz-cli#making-your-repo-commitizen-friendly
+-   https://prettier.io/docs/en/install.html
+
+# create-react-app notes
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
